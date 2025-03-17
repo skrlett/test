@@ -10,4 +10,5 @@ def print_chessboard():
     print(board)
 
 if __name__ == "__main__":
+    """Adding comment"""
     print_chessboard()
